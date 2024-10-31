@@ -19,4 +19,4 @@ The Doctors want to create a consolidated and interactive PowerBI report from wh
 2)	Total number of Death Count.
 3)	Total Revenue Generated
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/chiragvinchurkar16/Health-Care-Dashboard/blob/main/Health%20_Care_Chirag_Vinchurkar.pbix"View Dashboard </a>
